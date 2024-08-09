@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Coding%20My%20Way%20to%20Success&fontSize=50&fontColor=000000" alt="header"/>
 </p>
 
 ## 안녕하세요 👋
@@ -55,7 +55,3 @@
 
 ### 📫 How to reach me
 - Email: [ponyo3764@gmail.com](mailto:ponyo3764@gmail.com)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=50&fontColor=ffffff" alt="footer"/>
-</p>
